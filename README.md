@@ -31,7 +31,7 @@ Before running this project, make sure you have installed:
 2. **Install the required packages:**
 
     ```plaintext
-    npm install ethers crypto qs fs playwright cycletls readline
+    npm install ethers crypto qs fs playwright cycletls readline form-data
     
 3. **Install the required packages:**
 
